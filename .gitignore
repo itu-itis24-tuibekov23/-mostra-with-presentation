@@ -1,0 +1,12 @@
+# Büyük veri dosyaları
+data/Polygons/poi.geojson
+data/device_featuresv2.csv
+data/polygons_clusters.csv
+data/Polygons/lvl4.geojson
+
+# Diğer genel dosyalar (isteğe bağlı, gerekirse eklenebilir)
+# *.csv
+# *.geojson
+
+# macOS
+.DS_Store

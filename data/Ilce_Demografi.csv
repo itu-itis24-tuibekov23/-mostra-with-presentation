@@ -1,0 +1,46 @@
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;kadiköy;;;;;;;;üsküdar;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;Ataşehir;;;;;;;;Ümraniye;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;Ad ;Nüfus Dağılımı ;Yaş Dağılımı ;Medeni Hal ;Eğitim Düzeyi ;SES ;;;;Ad ;Nüfus Dağılımı ;Yaş Dağılımı ;Medeni Hal ;Eğitim Düzeyi ;SES ;;;Ad ;Nüfus Dağılımı ;Yaş Dağılımı ;Medeni Hal ;Eğitim Düzeyi ;SES ;;;Ad ;Nüfus Dağılımı ;Yaş Dağılımı ;Medeni Hal ;Eğitim Düzeyi ;SES 
+;;;;Göztepe;39.341 Kişi;65+;Evli;Lisans;A Grubu;;;;Cumhuriyet;37.696 Kişi;20-24;Evli;Lisans;A Grubu;;;İçerenköy;70.689 Kişi;65+;Evli;Lisans;A Grubu;;;Dudullu Osb;0 Kişi;0-4;Evli;Bilinmiyor;A Grubu
+;;;;Kozyatağı;37.125 Kişi;65+;Evli;Lisans;A Grubu;;;;Ünalan;35.654 Kişi;25-29;Evli;Lisans;A Grubu;;;Kayışdağı;42.425 Kişi;25-29;Evli;Lise;C Grubu;;;İstiklal;48.047 Kişi;25-29;Evli;Lise;C Grubu
+;;;;Erenköy;34.684 Kişi;65+;Evli;Lisans;A Grubu;;;;Yavuztürk;31.768 Kişi;40-44;Evli;Lise;C Grubu;;;Atatürk;32.869 Kişi;65+;Evli;Lisans;A Grubu;;;Armağanevler;39.708 Kişi;30-34;Evli;Lisans;C Grubu
+;;;;Bostancı;32.666 Kişi;65+;Evli;Lisans;A Grubu;;;;Bulgurlu;30.488 Kişi;65+;Evli;Lisans;A Grubu;;;Esatpaşa;32.602 Kişi;30-34;Evli;Lise;C Grubu;;;Çakmak;37.993 Kişi;25-29;Evli;Lise;C Grubu
+;;;;19-May;32.164 Kişi;65+;Evli;Lisans;A Grubu;;;;Acıbadem;23.437 Kişi;65+;Evli;Lisans;A Grubu;;;İnönü;31.497 Kişi;20-24;Evli;Lise;C Grubu;;;İnkılap;34.935 Kişi;30-34;Evli;Lise;C Grubu
+;;;;Merdivenköy;31.214 Kişi;65+;Evli;Lisans;A Grubu;;;;Bahçelievler;22.909 Kişi;65+;Evli;Lisans;A Grubu;;;Barbaros;30.735 Kişi;45-49;Evli;Lisans;A Grubu;;;Namık Kemal;28.491 Kişi;65+;Evli;Lise;B Grubu
+;;;;Sahrayıcedit;30.259 Kişi;65+;Evli;Lisans;A Grubu;;;;Ferah;21.426 Kişi;20-24;Evli;Lise;A Grubu;;;Küçükbakkalköy;29.259 Kişi;40-44;Evli;Lisans;A Grubu;;;Altınşehir;28.363 Kişi;40-44;Evli;Lise;C Grubu
+;;;;Acıbadem;28.801 Kişi;65+;Evli;Lisans;A Grubu;;;;Valide İ Atik;20.278 Kişi;65+;Evli;Lisans;A Grubu;;;Örnek;27.072 Kişi;25-29;Evli;Lisans;C Grubu;;;Necip Fazıl;28.327 Kişi;40-44;Evli;Lise;C Grubu
+;;;;Suadiye;26.428 Kişi;65+;Evli;Lisans;A Grubu;;;;Kısıklı;20.253 Kişi;20-24;Evli;Lise;A Grubu;;;Ferhatpaşa;20.543 Kişi;25-29;Evli;İlkokul;C Grubu;;;Mehmet Akif;26.150 Kişi;40-44;Evli;Lisans;C Grubu
+;;;;Feneryolu;25.626 Kişi;65+;Evli;Lisans;A Grubu;;;;Mehmet Akif Ersoy;19.550 Kişi;45-49;Evli;Lise;A Grubu;;;Mevlana;17.727 Kişi;65+;Evli;Lise;C Grubu;;;Esenevler;26.149 Kişi;40-44;Evli;Lise;C Grubu
+;;;;Caferağa;21.421 Kişi;65+;Evli;Lisans;A Grubu;;;;Küçüksu;18.514 Kişi;65+;Evli;Lisans;A Grubu;;;Mustafa Kemal;13.970 Kişi;40-44;Evli;İlkokul;C Grubu;;;Atatürk;24.104 Kişi;65+;Evli;Lise;C Grubu
+;;;;Fenerbahçe;20.872 Kişi;65+;Evli;Lisans;A Grubu;;;;Barbaros;16.999 Kişi;65+;Evli;Lisans;A Grubu;;;Aşıkveysel;12.955 Kişi;40-44;Evli;Lise;C Grubu;;;Çamlık;24.097 Kişi;30-34;Evli;Lisans;C Grubu
+;;;;Caddebostan;20.170 Kişi;65+;Evli;Lisans;A Grubu;;;;Küplüce;16.852 Kişi;65+;Evli;Lise;A Grubu;;;Yeni Çamlıca;12.833 Kişi;40-44;Evli;Lise;C Grubu;;;Tatlısu;22.972 Kişi;40-44;Evli;Lisans;C Grubu
+;;;;Hasanpaşa;16.310 Kişi;20-24;Bekar;Lisans;A Grubu;;;;Burhaniye;16.304 Kişi;65+;Evli;Lise;A Grubu;;;Fetih;11.578 Kişi;65+;Evli;Lisans;C Grubu;;;Elmalıkent;21.956 Kişi;40-44;Evli;Lise;C Grubu
+;;;;Eğitim;13.559 Kişi;65+;Evli;Lisans;A Grubu;;;;İcadiye;15.762 Kişi;65+;Evli;Lisans;A Grubu;;;Yenişehir;10.674 Kişi;65+;Evli;Lisans;A Grubu;;;Cemil Meriç;21.718 Kişi;40-44;Evli;İlkokul;C Grubu
+;;;;Rasimpaşa;12.341 Kişi;25-29;Bekar;Lisans;A Grubu;;;;Çengelköy;13.623 Kişi;65+;Evli;Lise;A Grubu;;;Mimar Sinan;9.614 Kişi;25-29;Evli;İlkokul;C Grubu;;;Yukarı Dudullu;21.532 Kişi;25-29;Evli;Lise;C Grubu
+;;;;Fikirtepe;12.235 Kişi;25-29;Evli;Lisans;A Grubu;;;;Muratreis;13.607 Kişi;65+;Evli;Lisans;A Grubu;;;Yenisahra;9.487 Kişi;25-29;Evli;Lise;C Grubu;;;Site;21.465 Kişi;40-44;Evli;Lisans;C Grubu
+;;;;Dumlupınar;10.081 Kişi;25-29;Evli;Lisans;A Grubu;;;;Güzeltepe;13.240 Kişi;65+;Evli;Lise;A Grubu;;;;;;;;;;;Esenkent;21.439 Kişi;25-29;Evli;İlkokul;C Grubu
+;;;;Zühtüpaşa;8.155 Kişi;65+;Evli;Lisans;A Grubu;;;;Selami Ali;13.011 Kişi;65+;Evli;Lisans;A Grubu;;;;;;;;;;;Esenşehir;20.732 Kişi;35-39;Evli;İlkokul;B Grubu
+;;;;Osmanağa;7.728 Kişi;65+;Bekar;Lisans;A Grubu;;;;Altunizade;12.397 Kişi;65+;Evli;Lisans;A Grubu;;;;;;;;;;;Atakent;19.933 Kişi;65+;Evli;Lise;C Grubu
+;;;;Koşuyolu;6.739 Kişi;65+;Evli;Lisans;A Grubu;;;;Zeynep Kamil;11.877 Kişi;65+;Evli;Lisans;A Grubu;;;;;;;;;;;Yamanevler;17.889 Kişi;20-24;Evli;Lise;C Grubu
+;;;;;;;;;;;;;Mimar Sinan;11.478 Kişi;25-29;Evli;Lisans;A Grubu;;;;;;;;;;;Adem Yavuz;16.766 Kişi;40-44;Evli;İlkokul;C Grubu
+;;;;;;;;;;;;;Küçük Çamlıca;10.980 Kişi;65+;Evli;Lise;A Grubu;;;;;;;;;;;Ihlamurkuyu;15.903 Kişi;25-29;Evli;Lise;B Grubu
+;;;;;;;;;;;;;Sultantepe;10.573 Kişi;65+;Evli;Lisans;A Grubu;;;;;;;;;;;Kazım Karabekir;15.830 Kişi;40-44;Evli;İlkokul;C Grubu
+;;;;;;;;;;;;;Kirazlıtepe;9.355 Kişi;25-29;Evli;Lise;C Grubu;;;;;;;;;;;Parseller;15.821 Kişi;40-44;Evli;Lise;C Grubu
+;;;;;;;;;;;;;Salacak;9.350 Kişi;65+;Evli;Lisans;A Grubu;;;;;;;;;;;Madenler;15.597 Kişi;40-44;Evli;Lisans;C Grubu
+;;;;;;;;;;;;;Ahmediye;8.638 Kişi;65+;Evli;Lisans;A Grubu;;;;;;;;;;;Aşağı Dudullu;15.040 Kişi;25-29;Evli;Lise;C Grubu
+;;;;;;;;;;;;;Aziz Mahmut Hüdayi;8.608 Kişi;65+;Evli;Lisans;A Grubu;;;;;;;;;;;Topağacı;13.826 Kişi;20-24;Evli;İlkokul;C Grubu
+;;;;;;;;;;;;;Selimiye;8.023 Kişi;65+;Bekar;Lisans;A Grubu;;;;;;;;;;;Tepeüstü;13.449 Kişi;25-29;Evli;Lise;C Grubu
+;;;;;;;;;;;;;Beylerbeyi;5.165 Kişi;65+;Evli;Lisans;A Grubu;;;;;;;;;;;Huzur;12.070 Kişi;25-29;Evli;İlkokul;C Grubu
+;;;;;;;;;;;;;Kuleli;4.142 Kişi;15-19;Bekar;Lise;A Grubu;;;;;;;;;;;Dumlupınar;12.024 Kişi;20-24;Evli;İlkokul;C Grubu
+;;;;;;;;;;;;;Kuzguncuk;3.981 Kişi;65+;Evli;Lisans;A Grubu;;;;;;;;;;;Tantavi;11.784 Kişi;40-44;Evli;Lisans;C Grubu
+;;;;;;;;;;;;;Kandilli;1.410 Kişi;65+;Evli;Lisans;A Grubu;;;;;;;;;;;Şerifali;9.502 Kişi;35-39;Evli;Lisans;C Grubu
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;Finanskent;8.113 Kişi;40-44;Evli;Lisans;A Grubu
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;Hekimbaşı;7.355 Kişi;40-44;Evli;İlkokul;C Grubu
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;Yenişehir;6.584 Kişi;40-44;Evli;İlkokul;C Grubu
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;Fatih Sultan Mehmet;4.658 Kişi;40-44;Evli;Lisans;A Grubu
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;Saray;3.460 Kişi;40-44;Evli;Lisans;A Grubu
